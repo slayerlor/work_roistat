@@ -6,8 +6,9 @@ docker compose -f 'docker-compose.yml' up -d --build
 
 http://localhost/
 
-![{E678D9EE-2AAC-4871-B093-21F1A543AAC9}](https://github.com/user-attachments/assets/5ade4718-3f55-4ce4-965c-24b5d020f71d)
+![{E71E5F27-0CBE-400B-922B-60ED2F259684}](https://github.com/user-attachments/assets/ad8cc55b-3d7d-4210-b765-24887f67717b)
 
-![{B8C86D1D-41EE-49FD-B5FD-554C087201F2}](https://github.com/user-attachments/assets/807f3cd2-c85b-4ea4-a19a-7249fb2ca6df)
+![{71B92FDC-1492-4979-A7AB-C947F478340C}](https://github.com/user-attachments/assets/bfd6b1a1-dd4d-4c7c-a2cd-38540d963968)
 
-![{EFE85444-CB2C-437E-9F5C-850B155A4CCC}](https://github.com/user-attachments/assets/c5f21de2-ddab-4456-ad40-97f1eca30948)
+![{3506F5B8-729F-4FEF-A319-F592944F6D1D}](https://github.com/user-attachments/assets/24117ae9-0499-4cfa-853c-660651733521)
+
