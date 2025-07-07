@@ -1,0 +1,13 @@
+{
+  "name": "danielatu/roistattest",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "scripts": {
+    "dump-autoload": [
+      "composer dump-autoload -o"
+    ]
+  }
+}
